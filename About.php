@@ -42,20 +42,15 @@
         <h2><i>Frontend: </i></h2> 
         <pre>
             1. Tahiat Hakim Himel 
-                        ID: 2013075642 
-            2. Md. Saiyem Raiyan  
-                        ID: 2012468642 
+            2. Md. Saiyem Raiyan                
             3. Ayman Ibne Hakim 
-                        ID: 2013364042 
         </pre>
 
         <h2><i>Backend: </i></h2>
         
         <pre>
-                    1. Sheikh Mohammed Wali Ullah 
-                        ID: 2021186642 
+                    1. Sheikh Mohammed Wali Ullah     
             2. Zobaer Ahammod Zamil 
-                        ID: 2021796642
         </pre>
             
             
